@@ -2,7 +2,7 @@
 
 ご不明な点・ご要望・不具合のご報告は、以下のフォームからお送りください。
 
-[お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdjuSkSpKdtJKs3IPgGOK8cG_BZUA8X2Dl-HyIAYxxhQ5Z23g/viewform?usp=header)
+[お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdvi-_c8kg32lHaV5CnIqq5hHq370H9c7eUqATKFlZ59sJziw/viewform?usp=publish-editor)
 
 ---
 
@@ -16,3 +16,9 @@ Anthropic社のAI（Claude）に直接送信されます。当方のサーバー
 
 **Q. 返金はできますか？**
 返金対応はAppleのポリシーに準じます。App Storeのサポートにお問い合わせください。
+
+**Q. 同じ問題なのに、毎回回答が違うのはなぜですか？**
+AIは人間の先生と同じように、同じ問題でもその時々で説明の仕方が変わることがあります。どちらが正しくてどちらが間違い、ということではなく、異なる角度からのアドバイスとして参考にしてください。
+
+**Q. 「問題の文字が読みづらい」と言われました。どうすればいいですか？**
+照明の明るい場所で、ヒントや解説を聞きたい問題だけをアップにして撮り直してみてください。ページ全体より、個別の問題にフォーカスした方が認識されやすくなります。現在は写真のみの入力に対応しており、テキスト入力はできません。
