@@ -2,7 +2,7 @@
 
 ご不明な点・ご要望・不具合のご報告は、以下のフォームからお送りください。
 
-[お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdvi-_c8kg32lHaV5CnIqq5hHq370H9c7eUqATKFlZ59sJziw/viewform?usp=publish-editor)
+[お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdvi-_c8kg32lHaV5CnIqq5hHq370H9c7eUqATKFlZ59sJziw/viewform?usp=dialog)
 
 ---
 
