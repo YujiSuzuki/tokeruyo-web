@@ -60,4 +60,5 @@
 本規約は日本法を準拠法とします。
 
 ## お問い合わせ
-[お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdjuSkSpKdtJKs3IPgGOK8cG_BZUA8X2Dl-HyIAYxxhQ5Z23g/viewform?usp=header)
+[サポート](https://yujisuzuki.github.io/tokeruyo-web/support) の お問い合わせフォーム を ご利用ください
+
