@@ -4,8 +4,6 @@
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdvi-_c8kg32lHaV5CnIqq5hHq370H9c7eUqATKFlZ59sJziw/viewform?usp=dialog" target="_blank" rel="noopener noreferrer">お問い合わせフォーム</a>
 
-[お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdvi-_c8kg32lHaV5CnIqq5hHq370H9c7eUqATKFlZ59sJziw/viewform?usp=dialog)
-
 ---
 
 ## よくある質問
