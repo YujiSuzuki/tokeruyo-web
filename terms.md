@@ -5,7 +5,7 @@
 ## 第1条（適用）
 本規約は、トケルよ（以下「本アプリ」）の利用に関する条件を定めるものです。
 本アプリをご利用いただくことで、本規約に同意いただいたものとみなします。
-本規約は、Apple標準使用許諾契約（https://www.apple.com/legal/internet-services/itunes/dev/stdeula/）と併せて適用されます。
+本規約は、[Apple標準使用許諾契約]（https://www.apple.com/legal/internet-services/itunes/dev/stdeula/）と併せて適用されます。
 
 ## 第2条（対象年齢）
 本アプリは13歳以上を対象としています。
@@ -20,7 +20,7 @@
 本アプリはOpenAI社が開発したAI（GPT）およびAnthropic社が開発したAI「Claude」を使用しています。
 - 本アプリの回答は先生や人間が行うものではありません
 - AIの回答は必ずしも正確ではない場合があります
-- 本アプリはAnthropic Usage Policy（https://www.anthropic.com/legal/usage-policy）に準拠して運営しています
+- 本アプリは[Anthropic Usage Policy]（https://www.anthropic.com/legal/usage-policy）に準拠して運営しています
 
 ## 第5条（データの取り扱い）
 - 問題の写真はOpenAI（GPT）に直接送信され、問題テキストに変換されます
