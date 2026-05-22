@@ -1,5 +1,6 @@
 {
   "publishedAt": "2026-05-23",
   "title": "アップデートのお知らせ（v2.2）",
-  "url": "https://yujisuzuki.github.io/tokeruyo-web/news.html"
+  "url": "https://yujisuzuki.github.io/tokeruyo-web/news.html",
+  "minVersion": "2.2"
 }
